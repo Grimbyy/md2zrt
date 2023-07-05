@@ -1,6 +1,6 @@
 {
     "name": "md2zrt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Converts markdown to a rich text object, compabable with Zooms Chat API",
     "entry point": "index.js",
     "scripts": {
