@@ -81,7 +81,7 @@ Node.js
 ### Installation
 
 ```
-npm i md2zt
+npm i md2zrt
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
