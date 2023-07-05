@@ -1,0 +1,25 @@
+{
+    "name": "md2zrt",
+    "version": "1.0.0",
+    "description": "Converts markdown to a rich text object, compabable with Zooms Chat API",
+    "entry point": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "github.com/grimbyy/md2zrt"
+    },
+    "keywords": [
+        "markdown",
+        "zoom",
+        "API",
+        "rich",
+        "text"
+    ],
+    "author": "Callum Grimble",
+    "license": "GNU GPL V3",
+    "devDependencies": {
+        "jest": "^29.6.0"
+    }
+}
